@@ -1,0 +1,150 @@
+
+ 
+ .bd-placeholder-img {
+   font-size: 1.125rem;
+   text-anchor: middle;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   user-select: none;
+ }
+
+ @media (min-width: 768px) {
+   .bd-placeholder-img-lg {
+     font-size: 3.5rem;
+   }
+ }
+
+ .b-example-divider {
+   height: 3rem;
+   background-color: rgba(0, 0, 0, .1);
+   border: solid rgba(0, 0, 0, .15);
+   border-width: 1px 0;
+   box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+ }
+
+ .b-example-vr {
+   flex-shrink: 0;
+   width: 1.5rem;
+   height: 100vh;
+ }
+
+ .bi {
+   vertical-align: -.125em;
+   fill: currentColor;
+ }
+
+ .nav-scroller {
+   position: relative;
+   z-index: 2;
+   height: 2.75rem;
+   overflow-y: hidden;
+ }
+
+ .nav-scroller .nav {
+   display: flex;
+   flex-wrap: nowrap;
+   padding-bottom: 1rem;
+   margin-top: -1px;
+   overflow-x: auto;
+   text-align: center;
+   white-space: nowrap;
+   -webkit-overflow-scrolling: touch;
+ }
+ 
+ 
+
+ .package-description
+ {
+   
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+ 
+ }
+
+ 
+.box1 {
+  width:280px;
+  height: 350px;
+  text-align: center;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  padding: 25px;
+  box-shadow: 9px 8px 8px 8px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: .8ms;
+
+}
+
+.box1:hover {
+  transition: .5s;
+  /* transform: rotate(360deg); */
+  border-radius: 10px;
+  margin-top: -10px;
+  /* border: 3px solid rgb(76, 16, 241); */
+}
+
+
+.icon img {
+  width: 150px;
+  height: auto;
+
+}
+
+.prb  img{
+  width: 200px;
+  height:230px;
+
+}
+.vhairevhai-1{
+  display: flex;
+  justify-content: space-evenly;
+}
+ 
+
+.img-img-fluid{
+  height:100%;
+  width:100%;
+}  
+
+ .box10 {
+  width:280px;
+  height: 350px;
+  text-align: center;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  padding: 25px;
+  box-shadow: 9px 8px 8px 8px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: .8ms;
+
+}
+ .box11 {
+  width:280px;
+  height: 400px;
+  text-align: center;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  padding: 25px;
+  box-shadow: 9px 8px 8px 8px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: .8ms;
+
+}
+
+ 
+.icon-1 img {
+  width: 235px;
+  height: 270px;
+
+}
+
+.oagooo{
+  justify-content: space-evenly;
+}
